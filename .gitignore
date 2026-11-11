@@ -1,0 +1,6 @@
+# sorties d'entrainement (training_script.py / retrain_28x28.py)
+training/
+__pycache__/
+# simulation
+*.vvp
+*.vcd
